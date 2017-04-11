@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.net.Uri;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class CallUtil {
     public static void call(Context context, String callNum) {

@@ -3,7 +3,7 @@ package com.yuyoubang.utils;
 import android.content.Context;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class ContextUtil {
     private static Context sContext;

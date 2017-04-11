@@ -14,7 +14,7 @@ import com.yuyoubang.R;
 
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class LoadingView extends View {
     public final int DEFAULT_SIZE=45;

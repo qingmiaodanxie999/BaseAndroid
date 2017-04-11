@@ -2,7 +2,7 @@ package com.yuyoubang.utils;
 
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class LaunchOperate {
 

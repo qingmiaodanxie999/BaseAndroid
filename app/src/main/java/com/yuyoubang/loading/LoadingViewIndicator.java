@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class LoadingViewIndicator extends BaseIndicator {
     float scaleFloat1,scaleFloat2,degrees;

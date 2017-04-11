@@ -3,7 +3,7 @@ package com.yuyoubang.listener;
 import android.view.View;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class OnClickListener implements View.OnClickListener {
     private long lastestClickTime = 0;

@@ -14,7 +14,7 @@ import com.yuyoubang.R;
 
 
 /**
- * Created by hongchen on 2016/11/06
+ * Created by xiaoyuan on 2016/11/06
  */
 public class TabIndicator extends RelativeLayout {
     private BadgeView bage;

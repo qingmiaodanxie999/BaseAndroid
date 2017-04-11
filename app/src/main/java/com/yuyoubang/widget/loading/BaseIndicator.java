@@ -10,7 +10,7 @@ import java.lang.ref.WeakReference;
 import java.util.List;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class BaseIndicator {
     private WeakReference<View> mTarget;

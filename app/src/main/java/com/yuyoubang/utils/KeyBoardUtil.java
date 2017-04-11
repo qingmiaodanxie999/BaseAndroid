@@ -8,7 +8,7 @@ import android.widget.EditText;
 import com.yuyoubang.app.YuYouBangApp;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class KeyBoardUtil {
 

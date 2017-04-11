@@ -8,7 +8,7 @@ import java.lang.reflect.Field;
 import java.util.Locale;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class UserAgentUtils {
     private UserAgentUtils() {

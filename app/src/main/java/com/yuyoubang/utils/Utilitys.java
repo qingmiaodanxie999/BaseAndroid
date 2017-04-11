@@ -6,7 +6,7 @@ import android.content.pm.PackageManager;
 import com.yuyoubang.app.YuYouBangApp;
 
 /**
- * Created by hongchen on 16/11/05.
+ * Created by xiaoyuan on 16/11/05.
  */
 public class Utilitys {
 

@@ -14,7 +14,7 @@ import com.yuyoubang.R;
 import com.yuyoubang.listener.OnRefreshListener;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class PublicLoadLayout extends RelativeLayout implements View.OnClickListener {
 //    private Context mContext;
