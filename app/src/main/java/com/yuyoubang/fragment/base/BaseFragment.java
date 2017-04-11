@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class BaseFragment extends UmengFragment {
     private View mRootLayout;

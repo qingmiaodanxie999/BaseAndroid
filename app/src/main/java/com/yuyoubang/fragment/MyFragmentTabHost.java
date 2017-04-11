@@ -19,7 +19,7 @@ import android.widget.TabWidget;
 import java.util.ArrayList;
 
 /**
- * date: Created hongchen on 16/11/06.
+ * date: Created xiaoyuan on 16/11/06.
  */
 public class MyFragmentTabHost extends TabHost implements TabHost.OnTabChangeListener {
     private final ArrayList<TabInfo> mTabs = new ArrayList<TabInfo>();

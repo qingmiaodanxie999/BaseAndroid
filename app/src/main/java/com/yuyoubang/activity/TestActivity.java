@@ -12,7 +12,7 @@ import retrofit2.Call;
 
 /**
  * 测试activity
- * Created by hongchen on 16/11/6.
+ * Created by xiaoyuan on 16/11/6.
  */
 
 public class TestActivity extends BaseNetActivity<Object> {

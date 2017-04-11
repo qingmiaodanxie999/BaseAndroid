@@ -7,7 +7,7 @@ import com.yuyoubang.listener.OnRefreshListener;
 import com.yuyoubang.view.PublicLoadLayout;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class BaseLoadActivity extends ToolBarActivity implements OnRefreshListener {
 

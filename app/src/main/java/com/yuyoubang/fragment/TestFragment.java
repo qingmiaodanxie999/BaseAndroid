@@ -11,7 +11,7 @@ import com.yuyoubang.network.api.TestApi;
 import retrofit2.Call;
 
 /**
- * Created by hongchen on 16/11/6.
+ * Created by xiaoyuan on 16/11/6.
  */
 
 public class TestFragment extends BaseNetFragment<Object> {

@@ -18,7 +18,7 @@ import com.yuyoubang.utils.ScreenUtil;
 import java.io.File;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public class YuYouBangApp extends Application {
 

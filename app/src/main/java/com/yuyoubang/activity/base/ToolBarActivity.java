@@ -15,7 +15,7 @@ import com.yuyoubang.listener.OnClickListener;
 import com.yuyoubang.utils.ContextUtil;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class ToolBarActivity extends UmengActivity {
     private Toolbar mToolbar;

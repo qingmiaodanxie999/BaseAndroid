@@ -16,7 +16,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * date: Created hongchen on 16/11/05.
+ * date: Created xiaoyuan on 16/11/05.
  */
 public abstract class BaseNetActivity<T> extends BaseLoadActivity implements Callback<T> {
     private final int mNetWorkTryCount = 3;
